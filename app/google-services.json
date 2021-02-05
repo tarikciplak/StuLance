@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "544973774075",
+    "firebase_url": "https://stulance-6dce9.firebaseio.com",
+    "project_id": "stulance-6dce9",
+    "storage_bucket": "stulance-6dce9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544973774075:android:94d74b6c1c51c808a3645e",
+        "android_client_info": {
+          "package_name": "com.example.stulance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544973774075-3jbfmcuukqsknpkjlrvketqgkbvjf1f1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZRR3E1hHKXzn1a5FeoHIJjoWUFyNhdDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544973774075-3jbfmcuukqsknpkjlrvketqgkbvjf1f1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
